@@ -1,7 +1,6 @@
 # Xsauce.io
-Welcome to Xsauce
+Welcome to Xsauce! 
 
-## Introduction
 Xsauce is a suite of tools that empower the evolution of cultural assets.
 
 Cultural assets, which we define as assets deriving their value from cultural significance rather than a pure measure of utility, represent a valuable, yet small portion of the investable assets that can be traded on centralized exchanges.
