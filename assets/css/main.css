@@ -697,6 +697,8 @@ input, select, textarea {
 				#header nav a:active {
 					font-size: 0.95em;
 					background: none;
+					color: rgb(170, 255, 0);
+					
 				}
 
 					#header nav a:active:before {
